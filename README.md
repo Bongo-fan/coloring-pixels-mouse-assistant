@@ -2,6 +2,10 @@
 
 Windows 下的 Coloring Pixels 鼠标填色助手。它从本机已安装游戏的关卡元数据读取目标颜色，再发送键鼠操作。支持自动平移、按颜色填充、蛇形逐格填充以及按已保存进度续填。
 
+## 下载最新版
+
+下载 **v1.0.0** 的 coloring-pixels-mouse-assistant-v1.0.0.zip。另外三个 ZIP 是历史版本。详见 [Release](https://github.com/Bongo-fan/coloring-pixels-mouse-assistant/releases/latest) 和 [更新日志](CHANGELOG.md)。
+
 ## 新电脑安装
 
 1. 通过 Steam 安装 Coloring Pixels，并至少启动一次。
